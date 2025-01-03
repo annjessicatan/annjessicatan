@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jessica
-- 👀 I’m interested in data analytics, SQL, tableau, Power BI, Excel, Python and Java Script
-- 🌱 I’m currently learning SQL, Tableau and Power BI
+- 👀 I'm a Computer Science student
+- 🌱 Python, Data Analytics, SQL, TABLEAU, EXCEL
 - 📫 How to reach me: ajessicavtan@gmail.com
 
 <!---
